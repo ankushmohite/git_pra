@@ -1,1 +1,3 @@
 added second feat by developer 2
+
+added some changes by developer 2
